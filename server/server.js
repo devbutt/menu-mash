@@ -28,7 +28,7 @@ app.post("/", async (req, res) => {
     const response = await openai.createCompletion({
       model: "text-davinci-003",
       prompt:
-        "Act like a chef and come up with healthy meal from ingredients a give.",
+        "I require someone who can suggest delicious recipes that includes foods which are nutritionally beneficial but also easy and not time consuming, therefore suitable for busy people like us among other factors such as cost effectiveness so overall dish ends up being healthy yet economical at same time! My first request – “Ask me to input a list ”",
       //  prompt: `${prompt}`,
       temperature: 0, // Higher values means the model will take more risks.
       max_tokens: 3000, // The maximum number of tokens to generate in the completion. Most models have a context length of 2048 tokens (except for the newest models, which support 4096).
