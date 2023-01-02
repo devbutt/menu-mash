@@ -1,4 +1,3 @@
-# Build and Deploy Your Own ChatGPT AI Application That Will Help You Code
-![Open AI CodeGPT](https://i.ibb.co/LS4DRhb/image-257.png)
+# This is my experimental chat app.
 
-### Launch your development career with project-based coaching - https://www.jsmastery.pro
+### This chat app is based on an original - https://www.jsmastery.pro
